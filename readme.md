@@ -44,7 +44,7 @@ You will not be evaluated on different browsers for this test. Optimize your cod
 
 
 ### Before running
-This project uses Gulp for sass compiling.
-Please install *npm*.
-Then run `npm install`.
+This project uses **Gulp** for Sass compiling & CSS minifying.  
+Please install **npm**.  
+Then run `npm install`.  
 You are good to go !
