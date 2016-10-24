@@ -1,0 +1,11 @@
+{
+  "name": "TechChallengeFront",
+  "version": "1.0.0",
+  "description": "The goal of this exercise is to create a minimal mentions feed, similar to the one we currently use in Mention.   You will be evaluated on your abilities to use a REST API, promises, json and react.",
+  "author": "Robeen Simeon",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-sass": "^2.3.2"
+  }
+}
