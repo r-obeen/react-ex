@@ -22,4 +22,4 @@ gulp.task('watch', function () {
   gulp.watch('main.js', ['babel']);
 });
 
-gulp.task('default', ['sass', 'minify-css', 'watch']);
+gulp.task('default', ['watch']);
